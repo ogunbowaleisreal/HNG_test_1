@@ -6,7 +6,7 @@ const cors = require('cors');
 
 app.use(cors())
 
-app.get('/', (req,res)=>{
+app.get('/base', (req,res)=>{
     res.status(200).send(response)
 })
 
