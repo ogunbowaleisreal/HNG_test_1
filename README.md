@@ -27,7 +27,9 @@ Returns a simple json document
 
 ## Deployment
 
-This API is deployed on Vercel and can be accessed at [insert URL]
+This API is deployed on Vercel and can be accessed at [vercel deployment link](https://hng-test-1-git-main-ogunbowaleisreals-projects.vercel.app/)
 
+## backlink for nodejs dev
+https://hng.tech/hire/nodejs-developers
 
 
