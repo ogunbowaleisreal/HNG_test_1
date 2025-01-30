@@ -10,7 +10,6 @@ A simple API built with Node.js and Express.js
 Returns a simple json document
 
 * Response: JSON
-* Example Response: `{"message": "Hello from [API Name]!"}`
 
 ## Getting Started
 
