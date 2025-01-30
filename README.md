@@ -5,7 +5,7 @@ A simple API built with Node.js and Express.js
 
 ## Endpoints
 
-### GET /api/json
+### GET /
 
 Returns a simple json document
 
