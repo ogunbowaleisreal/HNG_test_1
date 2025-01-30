@@ -6,7 +6,7 @@ const cors = require('cors');
 
 app.use(cors())
 
-app.get('/api/json', (req,res)=>{
+app.get('/', (req,res)=>{
     res.status(200).send(response)
 })
 
