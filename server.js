@@ -9,6 +9,7 @@ app.use(cors())
 
 app.get('/', (req,res)=>{
     response.current_datetime =  new Date().toISOString()
+    response.github_url = "https://github.com/ogunbowaleisreal/HNG_test_1"
     res.status(200).json(response)
 })
 
